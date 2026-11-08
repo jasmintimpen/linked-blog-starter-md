@@ -113,7 +113,7 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 
 DURCHFÜHRUNG
 - Ich gehe in diesem text davon aus, dass sie zusätzlich zur normalen körperpflege nur ihre zähneputzen und die Haare bürsten will, beides erst hinterher
-- 
+- Ich gebe ihr einen waschlappen, vorher nass. sie kann gesicht machen, wenn fertig gebe handtuch
 
 NACHBEREITUNG
 - 
