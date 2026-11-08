@@ -48,6 +48,16 @@ Schlafgewohnheiten
 
 Persönliches wärme und kälteempfinden
 
+hobbys
+
+körperkontakt ja nein
+schamgefühl
+nähedistanz verhalten
+
+psychische emotionale situation
+biographie traumata, verlust, etc
+soziale kontakte
+
 **IN PATIENTENAKTE NACH ASSESSMENTS GUCKEN**
 
 
