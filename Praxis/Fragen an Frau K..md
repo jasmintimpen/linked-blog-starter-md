@@ -1,5 +1,7 @@
 Religion
 Pflegegrad
+Pflegedienst?
+Berufstätigkeit
 betreuung vorsorgevollmacht patientenverfügung?
 hausarzt
 familie (familienstand und angehörige)
