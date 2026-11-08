@@ -1,12 +1,20 @@
 Religion
 Pflegegrad
-betreuung vollmacht verfügung?
+betreuung vorsorgevollmacht patientenverfügung?
 hausarzt
-familie
+familie (familienstand und angehörige)
 
+biografie:
+anamnese
+pflegerelevantes zu
+	familie
+	herkunft
+	bildung
+	arbeit
+	wohnen
+	prägende erlebnisse
 
-
-
+Andere Allergien
 
 
 
