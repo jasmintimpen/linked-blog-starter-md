@@ -121,8 +121,13 @@ DURCHFÜHRUNG
 - handtuch und waschlappen für oben kann weg
 - dann hose unterhose  aus, sie kann intimbereich waschen und abtrocknen, dafür kurz aufstehen, neue unterhose anziehen, dann erst socken und hausschuhe aus
 - wieder handtuch und waschlappen weg
-- dann ich beine (das rechte bein mit vac garnicht oder gr0ßzügig um die vac drumherum, damit sie auf keinen fall nass wird) und abtrocknen, danach mit selbem waschlappen und handtuch füße.
-- dann 
+- dann ich beine (das rechte bein mit vac garnicht oder gr0ßzügig um die vac drumherum, damit sie auf keinen fall nass wird) und abtrocknen, 
+- hose an
+- danach mit selbem waschlappen und handtuch füße. und dannn auch weg 
+- dann socken schuhe wieder an
+- fragen ob sie erst zähneputzen oder haare bürsten will
+- Ich gebe sachen zum zähneputzen, sie macht selber und danach oder davor ich gebe kamm oder bürste, sie kann selber
+- 
 
 NACHBEREITUNG
 - 
