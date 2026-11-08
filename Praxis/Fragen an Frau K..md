@@ -145,8 +145,15 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 - fragen was sie heute machen will(nur körperpflege? zähneputzen, will sie was neues anziehen, will sie vielleicht ihre Haare waschen, muss sie auch mal auf toilette?) 
 - hat sie eigene handtücher und waschlappen im bad?
 - waschschale, 2 handtücher, 2 waschlappen und alles andere was gebraucht wird ins bad bringen (also evtl zahnbürste,zahnpasta, wenn nicht schon da, und neue kleidung. ) 
+- rollator zum bett und bremsen fest
+- pat beim aufsetzen helfen
+- hausschuhe an
+- helfen beim aufstehen, sobald sicherer stand können die bremsen ab, pat ins bad begleiten.
+- dabei auf den vac schlauch achten und die vac mitnehmen 
+- patientin im bad auf den hocker setzen, rollator zur seite, oder bei platzmangel vors bad stellen.
+- wasser testen, bei guter temp die pat testen lassen. bei guter temp die waschschale mit wasser füllen und etwas duschgel ins wasser geben.
 
 DURCHFÜHRUNG
-
+- 
 
 NACHBEREITUNG
