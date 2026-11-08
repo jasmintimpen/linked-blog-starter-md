@@ -40,7 +40,13 @@ mimik gestik
 
 Atmen?
 Sauerstoff?
-vitalzeichen einmal checken
+vitalzeichen einmal durchchecken, puls, etc
+
+weiterversorgung nach krankehnahus, finanzielle sicherheit
+
+Schlafgewohnheiten
+
+Persönliches wärme und kälteempfinden
 
 **IN PATIENTENAKTE NACH ASSESSMENTS GUCKEN**
 
