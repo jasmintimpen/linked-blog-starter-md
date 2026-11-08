@@ -133,3 +133,20 @@ Inhaltsverzeichnis
 
 - [ ] Fragen aufschreiben 
 - [ ] Pflegeplanung Tabelle ausfüllen
+
+
+
+VORBEREITUNG
+Ich habe mich bereits ausführlich mit der Patientin beschäftigt und schreibe hier die Pflegeplanung ausführlich aus. Am Tag der Praxisbegleitung werde ich zuerst den Patienten vorstellen, bevor ich mit der eigentlichen Vorbereitung anfange. Der Pflegewagen steht bereits vor der Tür, dort habe ich ihn vor dem Praxisbesuch schon hingefahren und mit allem bestückt was ich während der Unterstützung bei der Körperpflege brauche, dass sich nicht im Patientenzimmer selbst befindet.
+
+Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ich an und betrete das Zimmer. Ich begrüße die Patientin und erkundige mich nach ihrem Wohlbefinden. Dann frage ich sie, ob sie immer noch Einverstanden ist, dass die Körperpflege heute in Begleitung durchgeführt wird.
+- waschewagen ins zimmer
+- handschuhe schürze anziehen
+- fragen was sie heute machen will(nur körperpflege? zähneputzen, will sie was neues anziehen, will sie vielleicht ihre Haare waschen, muss sie auch mal auf toilette?) 
+- hat sie eigene handtücher und waschlappen im bad?
+- waschschale, 2 handtücher, 2 waschlappen und alles andere was gebraucht wird ins bad bringen (also evtl zahnbürste,zahnpasta, wenn nicht schon da, und neue kleidung. ) 
+
+DURCHFÜHRUNG
+
+
+NACHBEREITUNG
