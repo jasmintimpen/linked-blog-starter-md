@@ -62,12 +62,12 @@ soziale kontakte
 
 
 
-## todo morgen
+## todo mo
 - [ ] Pflegeplanung zettel ausfüllen
 - [ ] patientenakte - assessments, vitalzeichen, Ausscheidung nachgucken
 - [ ] patientin interviewen und einverständnis holen
 - [ ] mit patientin das waschen üben
-- [ ] Patienteninfos und vorstellung der geplanten pflege mit neuen infos überarbeiten
+- [ ] Patienteninfos und vorstellung der geplanten pflege mit neuen infos überarbeiten (quellen und assessments auch)
 - [ ] Vorstellungszettel ausfüllen
 - [ ] medikamentenzettel notizen machen
 - [ ] mappe ausdrucken und einheften, alles für di vorbereiten
@@ -93,8 +93,8 @@ soziale kontakte
 - [ ] Durchgeführte Assessments	
 - [ ] Vorstellung der geplanten Pflege	
 	- [x] Vorbereitung	
-	- [ ] Durchführung	
-	- [ ] Nachbereitung	
+	- [x] Durchführung	
+	- [x] Nachbereitung	
 - [ ] Quellen	
 
 - [x] Fragen aufschreiben 
