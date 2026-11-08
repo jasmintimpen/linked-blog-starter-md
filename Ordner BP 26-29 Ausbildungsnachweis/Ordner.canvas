@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"e68890caaf629697","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Ausbildungsnachweis.png","x":-620,"y":-289,"width":320,"height":569,"color":"1"},
+		{"id":"f5976d1c6565b9e2","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144619.png","x":-200,"y":-289,"width":320,"height":569,"color":"2"},
+		{"id":"02206b22ffd20837","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/Ordner Einteilung.png","x":-1840,"y":-90,"width":1040,"height":1330},
+		{"id":"afc6622684355c3d","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Grundlagen Kommunikation.png","x":2880,"y":-280,"width":320,"height":569,"color":"3"},
+		{"id":"e070151f8448c0dd","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Händedesinfektion 2.png","x":2880,"y":1000,"width":320,"height":569,"color":"3"},
+		{"id":"1877de90af3688df","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144629.png","x":-200,"y":360,"width":320,"height":569,"color":"2"},
+		{"id":"36258e7bd0094c61","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Ausbildungsverlauf.png","x":-620,"y":360,"width":320,"height":569,"color":"1"},
+		{"id":"44542e7542c80000","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144636.png","x":-200,"y":1000,"width":320,"height":569,"color":"2"},
+		{"id":"6c86715b674a3bf2","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Ausbildungsverlauf Praktisch.png","x":-620,"y":1000,"width":320,"height":569,"color":"1"},
+		{"id":"ef7e84cdf501c673","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Hinweise 1.png","x":-620,"y":1640,"width":320,"height":569,"color":"1"},
+		{"id":"1460f520c14cdc11","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144650.png","x":-200,"y":1640,"width":320,"height":569,"color":"2"},
+		{"id":"f19c76a1672a7526","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144657.png","x":-200,"y":2280,"width":320,"height":569,"color":"2"},
+		{"id":"5c07e507897e05d8","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Hinweise 2.png","x":-620,"y":2280,"width":320,"height":569,"color":"1"},
+		{"id":"00eb3b56cf162bb9","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144704.png","x":-200,"y":2920,"width":320,"height":569,"color":"2"},
+		{"id":"2b140953493b9876","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/1. Hinweise zum Ausfüllen, Ausbildungsablauf, Gliederung des Ausbildungsnachweises/Hinweise 3.png","x":-620,"y":2920,"width":320,"height":569,"color":"1"},
+		{"id":"31285d7de3e2db05","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/2. Orientierungspraktikum 1&2/Pasted image 20260718144711.png","x":-200,"y":3560,"width":320,"height":569,"color":"2"},
+		{"id":"b9b3a4e8abdb7869","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Händedesinfektion Bearbeitung.md","x":3280,"y":360,"width":400,"height":569,"color":"3"},
+		{"id":"6591fa157de5ab58","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Grundlagen Kommunikation Bearbeitung.md","x":3280,"y":-280,"width":400,"height":569,"color":"3"},
+		{"id":"5fe7dadc0707f3e0","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Händedesinfektion 3.png","x":2880,"y":1640,"width":320,"height":569,"color":"3"},
+		{"id":"fc8dd65db731a844","type":"file","file":"Github/Ordner BP 26-29 Ausbildungsnachweis/9. Arbeits & Lernaufgaben/Händedesinfektion 1.png","x":2880,"y":360,"width":320,"height":569,"color":"3"}
+	],
+	"edges":[
+		{"id":"ff1e5e313efd3564","fromNode":"e070151f8448c0dd","fromSide":"right","toNode":"b9b3a4e8abdb7869","toSide":"bottom"},
+		{"id":"c898c91216113fcb","fromNode":"fc8dd65db731a844","fromSide":"right","toNode":"b9b3a4e8abdb7869","toSide":"left"},
+		{"id":"01bf656e594e9b32","fromNode":"5fe7dadc0707f3e0","fromSide":"right","toNode":"b9b3a4e8abdb7869","toSide":"bottom"},
+		{"id":"adb21ae5c965bc84","fromNode":"afc6622684355c3d","fromSide":"right","toNode":"6591fa157de5ab58","toSide":"left"}
+	]
+}
