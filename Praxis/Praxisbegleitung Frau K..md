@@ -108,10 +108,11 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 - hausschuhe an
 - helfen beim aufstehen, sobald sicherer stand können die bremsen ab, pat ins bad begleiten.
 - dabei auf den vac schlauch achten und die vac mitnehmen 
-- patientin im bad auf den hocker setzen, rollator zur seite, oder bei platzmangel vors bad stellen.
-- wasser testen, bei guter temp die pat testen lassen. bei guter temp die waschschale mit wasser füllen und etwas duschgel ins wasser geben.
 
 DURCHFÜHRUNG
+- patientin im bad auf den hocker setzen, rollator zur seite, oder bei platzmangel vors bad stellen.
+- falls sie auf toilette muss erst mit ihr zur toilette, sie kann das alles selber,evtl helfen die hose runterzuziehen, und danach auf den hocker
+- wasser testen, bei guter temp die pat testen lassen. bei guter temp die waschschale mit wasser füllen und etwas duschgel ins wasser geben.
 - Ich gehe in diesem text davon aus, dass sie zusätzlich zur normalen körperpflege nur ihre zähneputzen und die Haare bürsten will, beides erst hinterher
 - zuerst oberteil ausziehen und zurseite tun
 - Ich gebe ihr einen waschlappen, vorher nass. sie kann gesicht machen, wenn fertig gebe ich handtuch
@@ -120,6 +121,7 @@ DURCHFÜHRUNG
 - dann neues oberteil schon anziehen 
 - handtuch und waschlappen für oben kann weg
 - dann hose unterhose  aus, sie kann intimbereich waschen und abtrocknen, dafür kurz aufstehen, neue unterhose anziehen, dann erst socken und hausschuhe aus
+- immer wenn hose und unterhose an oder aus auf die vac und den schlauch achten
 - wieder handtuch und waschlappen weg
 - dann ich beine (das rechte bein mit vac garnicht oder gr0ßzügig um die vac drumherum, damit sie auf keinen fall nass wird) und abtrocknen, 
 - hose an
@@ -127,7 +129,7 @@ DURCHFÜHRUNG
 - dann socken schuhe wieder an
 - fragen ob sie erst zähneputzen oder haare bürsten will
 - Ich gebe sachen zum zähneputzen, sie macht selber und danach oder davor ich gebe kamm oder bürste, sie kann selber
-- 
+- zeit nutzen während sie das macht um die waschschale auszukippen und zur seite zu stellen, damit sie beim zähneputzen gut ausspucken kann
 
 NACHBEREITUNG
 - 
