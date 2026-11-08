@@ -18,8 +18,31 @@ pflegerelevantes zu
 
 Andere Allergien
 
+Hautzustand. vac angucken
+pflegt sie etwas besonders? zb nägel, haare oder so
+zahnprotese, mund zahnpflege
+Kleidung und waschgewohnheiten
 
+trinkenn?? wie viel ,was 
 
+Ausscheidung
+INko?
+katheter? 
+Urin stuhlgang
+ERbrechen?
+
+aufs bewegen achten
+
+Hörgerate brille etc
+sprache
+demenz
+mimik gestik
+
+Atmen?
+Sauerstoff?
+vitalzeichen einmal checken
+
+**IN PATIENTENAKTE NACH ASSESSMENTS GUCKEN**
 
 
 
@@ -64,3 +87,33 @@ Sich als Mann oder Frau fühlen und verhalten
 Sich beschäftigen
 
 Sinn finden im Leben
+
+
+Inhaltsverzeichnis
+- [ ] ==🔴Stammdaten==
+- [ ] ==🔴Biografie==
+- [x] Relevante medizinische Diagnosen
+- [x] Relevante Medikamente
+- [x] Informationssammlung Teil 1	
+- [ ] Informationssammlung Teil 2	
+	- [ ] Sich Waschen und Kleiden	
+	- [ ] ==🔴Essen und Trinken==	
+	- [ ] ==🔴Ausscheiden==	
+	- [ ] Sich bewegen	
+	- [ ] ==🔴Kommunizieren==	
+	- [ ] ==🔴Atmen==	
+	- [ ] ==🔴Für Sicherheit sorgen==	
+	- [ ] ==🔴Schlafen==	
+	- [ ] ==🔴Körpertemperatur regulieren==	
+	- [ ] ==🔴Sich als Mann oder Frau fühlen und verhalten==	
+	- [ ] ==🔴Sich beschäftigen==	
+	- [ ] ==🔴Sinn finden im Leben==	
+- [ ] Durchgeführte Assessments	
+- [ ] Vorstellung der geplanten Pflege	
+	- [ ] Vorbereitung	
+	- [ ] Durchführung	
+	- [ ] Nachbereitung	
+- [ ] Quellen	
+
+- [ ] Fragen aufschreiben 
+- [ ] Pflegeplanung Tabelle ausfüllen
