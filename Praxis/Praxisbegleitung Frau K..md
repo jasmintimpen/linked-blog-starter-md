@@ -134,7 +134,8 @@ DURCHFÜHRUNG
 - zeit nutzen während sie das macht um die waschschale auszukippen und zur seite zu stellen, damit sie beim zähneputzen gut ausspucken kann
 - wenn sie fertig ist fragen, ob sie jetzt zurück ins bett möchte, nur für den fall dass sie doch noch spontan ihre haare waschen möchte oder nochmal auf toilette muss, wenn nicht handschuhe aus, desi, neue handschuhe an
 - danach rollator zurückholen dass sie laufen kann und sie zurück begleiten
-- an bettkante setzen, fragen ob sie sitzen bleiben will oder sich hinlegen
+- an bettkante setzen, fragen ob sie sitzen bleiben will oder sich hinlegen, wahrscheinlich will sie liegen, dann ihr helfen beim hinlegen, gucken dass sie gut liegt, dass sie an den nachttisch kommt und dass sie an die klingel kommt.
+- 
 
 NACHBEREITUNG
 - 
