@@ -102,7 +102,7 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 - handschuhe schürze anziehen
 - fragen was sie heute machen will(nur körperpflege? zähneputzen, will sie was neues anziehen, will sie vielleicht ihre Haare waschen, muss sie auch mal auf toilette?) 
 - hat sie eigene handtücher und waschlappen im bad?
-- waschschale, 2 handtücher, 2 waschlappen und alles andere was gebraucht wird ins bad bringen (also evtl zahnbürste,zahnpasta, wenn nicht schon da, und neue kleidung. ) 
+- waschschale, 3 handtücher, 3 waschlappen und alles andere was gebraucht wird ins bad bringen (also evtl zahnbürste,zahnpasta, wenn nicht schon da, und neue kleidung. ) 
 - rollator zum bett und bremsen fest
 - pat beim aufsetzen helfen
 - hausschuhe an
@@ -113,7 +113,16 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 
 DURCHFÜHRUNG
 - Ich gehe in diesem text davon aus, dass sie zusätzlich zur normalen körperpflege nur ihre zähneputzen und die Haare bürsten will, beides erst hinterher
-- Ich gebe ihr einen waschlappen, vorher nass. sie kann gesicht machen, wenn fertig gebe handtuch
+- zuerst oberteil ausziehen und zurseite tun
+- Ich gebe ihr einen waschlappen, vorher nass. sie kann gesicht machen, wenn fertig gebe ich handtuch
+- dann schultern arme oberkörper, immer gleich abtrocknen oder sie abtrocknen lassen,
+- danach nehme ich waschlappen und mache rücken und direkt abtrocknen. 
+- dann neues oberteil schon anziehen 
+- handtuch und waschlappen für oben kann weg
+- dann hose unterhose  aus, sie kann intimbereich waschen und abtrocknen, dafür kurz aufstehen, neue unterhose anziehen, dann erst socken und hausschuhe aus
+- wieder handtuch und waschlappen weg
+- dann ich beine (das rechte bein mit vac garnicht oder gr0ßzügig um die vac drumherum, damit sie auf keinen fall nass wird) und abtrocknen, danach mit selbem waschlappen und handtuch füße.
+- dann 
 
 NACHBEREITUNG
 - 
