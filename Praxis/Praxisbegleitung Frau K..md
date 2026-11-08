@@ -135,7 +135,15 @@ DURCHFÜHRUNG
 - wenn sie fertig ist fragen, ob sie jetzt zurück ins bett möchte, nur für den fall dass sie doch noch spontan ihre haare waschen möchte oder nochmal auf toilette muss, wenn nicht handschuhe aus, desi, neue handschuhe an
 - danach rollator zurückholen dass sie laufen kann und sie zurück begleiten
 - an bettkante setzen, fragen ob sie sitzen bleiben will oder sich hinlegen, wahrscheinlich will sie liegen, dann ihr helfen beim hinlegen, gucken dass sie gut liegt, dass sie an den nachttisch kommt und dass sie an die klingel kommt.
-- 
+- müll, geschirr, leere flaschen vom nachttisch mitnehmen (müll in müll, leere flaschen und geschirr erstmal auf wäschewagen abstellen, wenn keine volle flasche mehr da, dann der patientin sagen dass man gleich eine neue holt) patientin fragen ob sie noch was braucht, wenn nicht dann verabschieden und nachbereiten, neues wasser am besten gleich holen, damit die patientin nicht warten mss bis sie trinken kann
 
 NACHBEREITUNG
-- 
+- dreckige kleidung der patientin in ihren wäschebeutel im schrank
+- dreckige wäsche im bad in wäschebeutel am wäschewagen, müll auch in den müll am wäschewagen falls notwendig. 
+- waschschale auf wäschewagen abstellen
+- flächendesi im bad (waschbecken, oberflächen wo man was abgelegt hat, hocker)
+- HAndschuhwechsel mit händedesi
+- wäschewagen aus dem zimmer schieben  
+- waschschale in spülraum
+- müll oder wäschesack ersetzen und weg tun falls notwendig
+- schürze und handschuhe in müll und händedesi
