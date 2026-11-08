@@ -144,6 +144,6 @@ NACHBEREITUNG
 - flächendesi im bad (waschbecken, oberflächen wo man was abgelegt hat, hocker)
 - HAndschuhwechsel mit händedesi
 - wäschewagen aus dem zimmer schieben  
-- waschschale in spülraum
-- müll oder wäschesack ersetzen und weg tun falls notwendig
+- waschschale in spülraum, evtl geschirr oder leere flaschen auch wegbringen
 - schürze und handschuhe in müll und händedesi
+- dokumentieren
