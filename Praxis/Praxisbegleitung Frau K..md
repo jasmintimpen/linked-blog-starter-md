@@ -1,3 +1,4 @@
+## Fragen
 Religion
 Pflegegrad
 Pflegedienst?
@@ -62,50 +63,7 @@ soziale kontakte
 
 
 
-
-BIOGRAFIE
-	Pflegerelevantes
-	familie
-	herkunft
-	bildung
-	arbeit
-	wohnen
-	prägende erlebnisse
-Sich Waschen und Kleiden
-	Körperpflege
-	hautzustand
-	ankleiden
-	hygienegewohnheiten
-Essen und Trinken
-	ernährungszustand
-	kostform
-	unterstützung bei nahrungsaufnahme
-	schluckstörungen
-Ausscheiden
-	kontinenz
-	toilettengang
-	inkontinenzversorgung
-	stuhlgewohnheiten
-Sich bewegen
-	mobilität bewe
-Kommunizieren
-
-Atmen
-
-Für Sicherheit sorgen
-
-Schlafen
-
-Körpertemperatur regulieren
-
-Sich als Mann oder Frau fühlen und verhalten
-
-Sich beschäftigen
-
-Sinn finden im Leben
-
-
-Inhaltsverzeichnis
+## Checkliste
 - [ ] ==🔴Stammdaten==
 - [ ] ==🔴Biografie==
 - [x] Relevante medizinische Diagnosen
@@ -126,16 +84,16 @@ Inhaltsverzeichnis
 	- [ ] ==🔴Sinn finden im Leben==	
 - [ ] Durchgeführte Assessments	
 - [ ] Vorstellung der geplanten Pflege	
-	- [ ] Vorbereitung	
+	- [x] Vorbereitung	
 	- [ ] Durchführung	
 	- [ ] Nachbereitung	
 - [ ] Quellen	
 
-- [ ] Fragen aufschreiben 
+- [x] Fragen aufschreiben 
 - [ ] Pflegeplanung Tabelle ausfüllen
 
 
-
+## Vorstellung der geplanten Pflege
 VORBEREITUNG
 Ich habe mich bereits ausführlich mit der Patientin beschäftigt und schreibe hier die Pflegeplanung ausführlich aus. Am Tag der Praxisbegleitung werde ich zuerst den Patienten vorstellen, bevor ich mit der eigentlichen Vorbereitung anfange. Der Pflegewagen steht bereits vor der Tür, dort habe ich ihn vor dem Praxisbesuch schon hingefahren und mit allem bestückt was ich während der Unterstützung bei der Körperpflege brauche, dass sich nicht im Patientenzimmer selbst befindet.
 
@@ -154,6 +112,7 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 - wasser testen, bei guter temp die pat testen lassen. bei guter temp die waschschale mit wasser füllen und etwas duschgel ins wasser geben.
 
 DURCHFÜHRUNG
+- Ich gehe in diesem text davon aus, dass sie zusätzlich zur normalen körperpflege nur ihre zähneputzen und die Haare bürsten will, beides erst hinterher
 - 
 
 NACHBEREITUNG
