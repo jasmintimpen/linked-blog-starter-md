@@ -112,6 +112,7 @@ Vorm Betreten des Patientenzimmers desinfiziere ich meine Hände, dann klopfe ic
 DURCHFÜHRUNG
 - patientin im bad auf den hocker setzen, rollator zur seite, oder bei platzmangel vors bad stellen.
 - falls sie auf toilette muss erst mit ihr zur toilette, sie kann das alles selber,evtl helfen die hose runterzuziehen, und danach auf den hocker
+- den hocker nicht zu nah ans waschbecken und etwas schräg, sodass ich besser beim wschen an alles drankomme
 - wasser testen, bei guter temp die pat testen lassen. bei guter temp die waschschale mit wasser füllen und etwas duschgel ins wasser geben.
 - Ich gehe in diesem text davon aus, dass sie zusätzlich zur normalen körperpflege nur ihre zähneputzen und die Haare bürsten will, beides erst hinterher
 - zuerst oberteil ausziehen und zurseite tun
@@ -120,17 +121,20 @@ DURCHFÜHRUNG
 - danach nehme ich waschlappen und mache rücken und direkt abtrocknen. 
 - dann neues oberteil schon anziehen 
 - handtuch und waschlappen für oben kann weg
-- dann hose unterhose  aus, sie kann intimbereich waschen und abtrocknen, dafür kurz aufstehen, neue unterhose anziehen, dann erst socken und hausschuhe aus
+- dann hose unterhose  aus, sie kann intimbereich waschen und abtrocknen, dafür kurz aufstehen,
 - immer wenn hose und unterhose an oder aus auf die vac und den schlauch achten
-- wieder handtuch und waschlappen weg
+- wieder handtuch und waschlappen weg, dann handschuhe aus, hände desinfizieren und neue Handschuhe an
+-  neue unterhose anziehen, dann erst socken und hausschuhe aus
 - dann ich beine (das rechte bein mit vac garnicht oder gr0ßzügig um die vac drumherum, damit sie auf keinen fall nass wird) und abtrocknen, 
 - hose an
-- danach mit selbem waschlappen und handtuch füße. und dannn auch weg 
+- danach mit selbem waschlappen und handtuch füße. und dannn auch weg (wieder handschuhwechsel mit händedesi dazwischen) 
 - dann socken schuhe wieder an
 - fragen ob sie erst zähneputzen oder haare bürsten will
 - Ich gebe sachen zum zähneputzen, sie macht selber und danach oder davor ich gebe kamm oder bürste, sie kann selber
 - zeit nutzen während sie das macht um die waschschale auszukippen und zur seite zu stellen, damit sie beim zähneputzen gut ausspucken kann
-- wenn sie fertig ist fragen, ob sie jetzt zurück ins bett möchte, nur für den fall dass sie doch noch spontan ihre haare waschen möchte oder nochmal auf toilette muss, danach rollator zurückholen dass sie laufen kann und sie zurück begleiten
+- wenn sie fertig ist fragen, ob sie jetzt zurück ins bett möchte, nur für den fall dass sie doch noch spontan ihre haare waschen möchte oder nochmal auf toilette muss, wenn nicht handschuhe aus, desi, neue handschuhe an
+- danach rollator zurückholen dass sie laufen kann und sie zurück begleiten
+- an bettkante setzen, fragen ob sie sitzen bleiben will oder sich hinlegen
 
 NACHBEREITUNG
 - 
