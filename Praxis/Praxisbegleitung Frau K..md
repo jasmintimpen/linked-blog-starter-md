@@ -277,21 +277,13 @@ Selbstständigkeit fördern
 Sturzprophylaxe
 	Mobilisation mit Rollator begleiten; beim Aufstehen, Hinsetzen und Stehen auf sicheren Halt achten.
 VAC-Anlage schütze
-- VAC-Anlage und Folienverband trocken halten; besonders auf den Schlauch beim Waschen und Umziehen achten.
+	VAC-Anlage und Folienverband trocken halten; besonders auf den Schlauch beim Waschen und Umziehen achten.
 Schmerzmanagement
-- Auf Schmerzen achten, Bewegungen anpassen und ausreichend Zeit lassen.
+	Auf Schmerzen achten, Bewegungen anpassen und ausreichend Zeit lassen.
 Intimsphäre
-- Körperbereiche bedecken, Intimpflege selbstständig durchführen lassen und Schamgefühl berücksichtigen.
+	Körperbereiche bedecken, Intimpflege selbstständig durchführen lassen und Schamgefühl berücksichtigen.
 Hygiene
-- Händedesinfektion und situationsgerechten Handschuhwechsel durchführen; Materialien un
+	Händedesinfektion und situationsgerechten Handschuhwechsel durchführen; Materialien un
 Hautbeobachtung
+	Haut auf Auffälligkeiten kontrollieren, besonders an den Wunden 
 
-- Haut auf Auffälligkeiten kontrollieren, besonders an den Beinen und im Intimbereich.
-
-Individuelle Bedürfnisse
-
-- Wünsche berücksichtigen, Einverständnis einholen und auf das Wohlbefinden achten.
-
-Nachbereitung
-
-- Bequeme Lagerung, Klingel erreichbar platzieren, Materialien entsorgen und Pflege dokumentieren.
