@@ -67,9 +67,9 @@ soziale kontakte
 - [x] patientenakte - assessments, vitalzeichen, Ausscheidung nachgucken
 - [x] patientin interviewen und einverständnis holen
 - [ ] ~~mit patientin das waschen üben~~
-- [ ] Patienteninfos und vorstellung der geplanten pflege mit neuen infos überarbeiten (quellen und assessments auch)
+- [x] Patienteninfos und vorstellung der geplanten pflege mit neuen infos überarbeiten (quellen und assessments auch)
 - [ ] Vorstellungszettel ausfüllen
-- [ ] medikamentenzettel notizen machen
+- [x] medikamentenzettel notizen machen
 - [ ] mappe ausdrucken und einheften, alles für di vorbereiten
 ## Checkliste
 - [ ] ==🔴Stammdaten==
