@@ -155,3 +155,32 @@ NACHBEREITUNG
 - waschschale in spülraum, evtl geschirr oder leere flaschen auch wegbringen
 - schürze und handschuhe in müll und händedesi
 - dokumentieren
+
+## Medi liste ausgeschrieben
+Jeden Tag morgens und abends nimmt sie 5mg Amlodipin als Tablette, seit abends am 29. Oktober. Das ist ein Blutdrucksenkendes Medikament, das Frau K. wahrscheinlich aufgrund ihres hohen Blutdrucks bekommt.
+
+Seitdem bekommt sie auch morgens und abends Candesartan – 1A Pharma 16 mg Tabletten. Auch das ist ein Blutdrucksenkendes Medikament, das wahrscheinlich ebenfalls wegen ihrer arteriellen Hypertonie angewendet wird.
+
+Auch retardierte Hydromorphon Hartkapseln von 8mg, jeden Morgen und Abend, ebenfalls seit dem 29.10. abends. Hydromorphon ist ein starkes Schmerzmittel, das Frau K. wahrscheinlich wegen ihrer chronischen Rückenschmerzen, den Rippenfrakturen und den Wundschmerzen bekommt.
+
+Metamizol Aristo – 1A Pharma 500mg Tabletten Bekommt sie zu jeder Tageszeit, auch zur Nacht, also insgesamt 4x täglich, auch seit dem 29.10. zum Abend. Ein Schmerz- und fiebersenkendes Medikament, das wahrscheinlich auch zur Behandlung ihrer Rücken-, Rippen- und Wundschmerzen dienen soll.
+
+Genauso Pregabalin – 1A Pharma 75 mg in Hartkapseln. Pregabalin wird gegen bestimmte Nervenschmerzen eingesetzt, die Frau K. aufgrund ihres chronischen Schmerzsyndroms bekommt.
+
+Die nächsten 6 Tabletten wurden zur selben Zeit verordnet aber erst ab dem nächsten Morgen angesetzt. Amitriptylin-CT 25 mg Tabletten, nur morgens. Das ist ein Medikament gegen Depressionen und/oder bestimmte chronische Schmerzen, das Frau K. wahrscheinlich wegen ihrer depressiven Episode oder wegen den chronischen Rückenschmerzen bekommt.
+
+Außerdem soll sie auch morgens Macrogol-1A Pharma einnehmen. Dabei handelt es sich um Pulver, mit dem eine Lösung hergestellt werden soll zum oralen Einnehmen. Ein Abführmittel, das meine Patientin wahrscheinlich gegen Verstopfung durch das starke Schmerzmittel Hydromorphon bekommt.
+
+Außerdem nimmt sie morgens Pantoprazol – 1A Pharma 40mg magensaftresistente Tabletten ein. Ein Medikament das die Magensäure verringert, und als Magenschutz wirkt, während sie so viele verschiedene Medikamente einnimmt.
+
+Sie bekommt auch Spironolacton 25mg als überzogene Tabletten jeden Morgen. Ein entwässerndes Medikament, das Frau K. möglicherweise aufgrund ihrer früheren kardialen Dekompensation (Herzschwäche mit Flüssigkeitseinlagerung) bekommt.
+
+Torasemid 1A Pharma 10mg bekommt sie auch erst ab dem 30.10, zweimal morgens und noch einmal mittags. Stark entwässerndes Medikament, das wahrscheinlich auch wegen ihrer früheren kardialen Dekompensation und möglicher Flüssigkeitseinlagerungen eingesetzt wird.
+
+Außerdem bekommt sie seit dem 2.11. morgens und abends eine 600mg/300ml Linezolid Infusionslösung. Ein Antibiotikum zur Behandlung bestimmter bakterieller Infektionen, das Frau K. wahrscheinlich wegen der Wundheilungsstörung und möglichen Infektion ihrer Katzenbisswunde bekommt.
+
+Morgens kommen seit dem 4.11. noch 1000ml Sterofundin dazu. Flüssigkeits- und Elektrolytlösung, die die Patientin wahrscheinlich zur Flüssigkeitsversorgung bekommt.
+
+Außerdem bekommt sie noch täglich seit Aufnahme Mono Embolex 3000 I.E abends. Mono Embolex, oft „Thrombosespritze“ genannt, ist ein Blutgerinnungs-hemmendes Medikament zur Prophylaxe von Thrombosen, das Frau K. aufgrund ihrer eingeschränkten Mobilität und des langen stationären Aufenthalts bekommt.
+
+Ihre Bedarfsmedikamente bei Schmerzen sind Hydromorphon beta Hartkapseln, 1,3mg. Nur eine pro Einnahme und höchstens drei alle 24 Stunden. Außerdem kann sie bei Schmerzen auch eine Infusion bekommen. Piritramid 7,5mg/1ml AMP. Auf Station soll bei Schmerzen ab 5 auf der Schmerz Skala von 1-10 3,75mg verabreicht werden, bei Schmerzen ab 8 sollen die ganzen 7,5mg verabreicht werden. Über 24 Stunden dürfen höchstens 30mg gegeben werden.
