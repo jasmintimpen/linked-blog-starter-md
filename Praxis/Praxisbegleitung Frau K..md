@@ -63,10 +63,10 @@ soziale kontakte
 
 
 ## todo mo
-- [ ] Pflegeplanung zettel ausfüllen
-- [ ] patientenakte - assessments, vitalzeichen, Ausscheidung nachgucken
-- [ ] patientin interviewen und einverständnis holen
-- [ ] mit patientin das waschen üben
+- [x] Pflegeplanung zettel ausfüllen
+- [x] patientenakte - assessments, vitalzeichen, Ausscheidung nachgucken
+- [x] patientin interviewen und einverständnis holen
+- [ ] ~~mit patientin das waschen üben~~
 - [ ] Patienteninfos und vorstellung der geplanten pflege mit neuen infos überarbeiten (quellen und assessments auch)
 - [ ] Vorstellungszettel ausfüllen
 - [ ] medikamentenzettel notizen machen
