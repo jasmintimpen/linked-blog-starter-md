@@ -184,3 +184,114 @@ Morgens kommen seit dem 4.11. noch 1000ml Sterofundin dazu. Flüssigkeits- und E
 Außerdem bekommt sie noch täglich seit Aufnahme Mono Embolex 3000 I.E abends. Mono Embolex, oft „Thrombosespritze“ genannt, ist ein Blutgerinnungs-hemmendes Medikament zur Prophylaxe von Thrombosen, das Frau K. aufgrund ihrer eingeschränkten Mobilität und des langen stationären Aufenthalts bekommt.
 
 Ihre Bedarfsmedikamente bei Schmerzen sind Hydromorphon beta Hartkapseln, 1,3mg. Nur eine pro Einnahme und höchstens drei alle 24 Stunden. Außerdem kann sie bei Schmerzen auch eine Infusion bekommen. Piritramid 7,5mg/1ml AMP. Auf Station soll bei Schmerzen ab 5 auf der Schmerz Skala von 1-10 3,75mg verabreicht werden, bei Schmerzen ab 8 sollen die ganzen 7,5mg verabreicht werden. Über 24 Stunden dürfen höchstens 30mg gegeben werden.
+
+## für  vorstell zettel
+#### Informationssammlung Teil 2
+
+###### Sich waschen und kleiden
+- Kann sich teilweise selbstständig waschen
+- Benötigt Unterstützung beim Waschen des Rückens
+- Benötigt Unterstützung beim Waschen der Beine
+- Intimpflege übernimmt sie selbstständig
+- Körperpflege kann im Badezimmer durchgeführt werden
+- VAC-Anlage am rechten Unterschenkel und Folienverband am Oberschenkel dürfen nicht nass werden
+###### Essen und Trinken
+- Erhält normale Vollkost im Krankenhaus
+- Körpergewicht: 88 kg
+- Kann selbstständig essen
+- Keine Unterstützung beim Essen erforderlich
+- In der Vergangenheit Aspirationspneumonie
+- Keine weiteren Einschränkungen bei der Nahrungsaufnahme in der Informationssammlung beschrieben
+###### Ausscheiden
+- Urininkontinent
+- Benötigt mehrere Inkontinenzvorlagen
+- War bereits häufiger eingenässt
+- Empfindet Scham aufgrund ihrer Inkontinenz
+- Nach Gabe von Movicol wieder regelmäßiger Stuhlgang
+- Frühere Übelkeit und Erbrechen nach dem ersten VAC-Wechsel, inzwischen beschwerdefrei
+###### Sich bewegen
+- Fortbewegung mit Rollator
+- Soll beim Gehen begleitet werden
+- Anfangs noch etwas unsicher auf den Beinen
+- Mobilität wird zunehmend sicherer
+- Wunde am rechten Bein schränkt die Beweglichkeit ein
+- Schmerzen führen dazu, dass sie sich weniger bewegt; auf VAC-Schlauch achte
+###### Kommunizieren
+- Vollständig orientiert
+- Versteht Anweisungen und Gespräche gut
+- Keine Demenz oder anderweitige Verwirrtheit
+- Benötigt weder Hörgerät noch Brille
+- Wird bei Gesprächen über ihre Vergangenheit schnell emotional
+- Frustriert über ihre zunehmende Hilfsbedürftigkeit und den langen Krankenhausaufenthalt
+###### Atmen
+- COPD vorhanden
+- Raucht in ihrer Freizeit
+- Herzschrittmacher seit Juli 2025
+- Arterielle Hypertonie WHO III
+- Blutdruck ungefähr 135/80 mmHg, Puls meist zwischen 60 und 80
+- Sauerstoffsättigung meist bei 95 %, teilweise knapp unter 90 %
+###### Für Sicherheit sorgen
+- Erhöhtes Sturzrisiko durch eingeschränkte Mobilität
+- Osteoporose erhöht die möglichen Folgen eines Sturzes
+- Schmerzmedikamente können zusätzlich die Sturzgefahr beeinflussen
+- Mobilisation mit Rollator und Begleitung
+- VAC-Anlage muss vor Beschädigung und Durchnässung geschützt werden
+- Mehrere Schmerzursachen; Schmerzintensität meist bei NRS 3
+###### Schlafen
+- Schläft grundsätzlich gerne
+- Wird nachts nur selten wach
+- Normalerweise keine größeren Schlafprobleme
+- Schmerzen erschweren gelegentlich das Einschlafen
+- Einmalige Schlafunterbrechung aufgrund von Übelkeit
+- Nach Gabe einer Vomex-Kurzinfusion konnte sie schlafen
+###### Körpertemperatur regulieren
+- Körpertemperatur stabil bei ungefähr 36 °C
+- Teilweise Temperaturanstieg bis 37 °C
+- Keine besonderen Auffälligkeiten bei der Temperaturregulation
+- Mag kein geöffnetes Fenster
+- Empfindet die dadurch entstehende Kälte als unangenehm
+###### Sich als Mann oder Frau fühlen und verhalten
+- Frau K. wurde als Frau geboren
+- Identifiziert sich als Frau
+- Urininkontinenz beeinträchtigt ihr Wohlbefinden
+- Empfindet augenscheinlich Scham aufgrund der Inkontinenz
+- Ist darüber teilweise traurig
+###### Sich beschäftigen
+- Liest sehr gerne Bücher
+- Hat früher gerne gekocht
+- Kochen war ein wichtiger Teil ihres früheren Alltags
+- Hat früher für ihren Mann gekocht
+- Später auch für Sohn und Enkel
+- Hat versucht, sich weitere Hobbys beizubringen, hatte dafür aber nie ausreichend Zeit
+###### Sinn finden im Leben
+- Beschreibt ihr früheres Leben als sehr schön
+- Hat den Tod ihres Mannes noch nicht vollständig verarbeitet
+- Landwirtschaft ist ihr besonders wichtig
+- Leidet darunter, nicht mehr selbst auf die Felder zu können
+- Empfindet ihre zunehmende Abhängigkeit von anderen als belastend
+- Stört sich an der Vielzahl ihrer Medikamente und deren Auswirkungen
+
+#### Pflegeaufgaben und individuelle Schwerpunkte
+Selbstständigkeit fördern
+	Gesicht, Oberkörper und Intimbereich selbstständig waschen lassen; Rücken und Beine übernehmen.
+Sturzprophylaxe
+	Mobilisation mit Rollator begleiten; beim Aufstehen, Hinsetzen und Stehen auf sicheren Halt achten.
+VAC-Anlage schütze
+- VAC-Anlage und Folienverband trocken halten; besonders auf den Schlauch beim Waschen und Umziehen achten.
+Schmerzmanagement
+- Auf Schmerzen achten, Bewegungen anpassen und ausreichend Zeit lassen.
+Intimsphäre
+- Körperbereiche bedecken, Intimpflege selbstständig durchführen lassen und Schamgefühl berücksichtigen.
+Hygiene
+- Händedesinfektion und situationsgerechten Handschuhwechsel durchführen; Materialien un
+Hautbeobachtung
+
+- Haut auf Auffälligkeiten kontrollieren, besonders an den Beinen und im Intimbereich.
+
+Individuelle Bedürfnisse
+
+- Wünsche berücksichtigen, Einverständnis einholen und auf das Wohlbefinden achten.
+
+Nachbereitung
+
+- Bequeme Lagerung, Klingel erreichbar platzieren, Materialien entsorgen und Pflege dokumentieren.
