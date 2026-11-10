@@ -285,13 +285,8 @@ Intimsphäre
 Hygiene
 - Händedesinfektion und situationsgerechten Handschuhwechsel durchführen; Materialien un
 Hautbeobachtung
-
 - Haut auf Auffälligkeiten kontrollieren, besonders an den Beinen und im Intimbereich.
-
 Individuelle Bedürfnisse
-
 - Wünsche berücksichtigen, Einverständnis einholen und auf das Wohlbefinden achten.
-
 Nachbereitung
-
 - Bequeme Lagerung, Klingel erreichbar platzieren, Materialien entsorgen und Pflege dokumentieren.
